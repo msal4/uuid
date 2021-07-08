@@ -1,1 +1,3 @@
-module github.com/google/uuid
+module github.com/msal4/uuid
+
+go 1.16
